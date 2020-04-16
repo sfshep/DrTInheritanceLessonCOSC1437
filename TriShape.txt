@@ -1,0 +1,10 @@
+
+Drawing for: Isosceles Triangle
+*
+**
+***
+****
+*****
+******
+*******
+********
